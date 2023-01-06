@@ -1,0 +1,28 @@
+# Utilities
+Включает в себя классы:
+- Background - цвет фона: `bg-success`
+- Borders - рамки у элементов: `border`
+- Colors - цвет текста: `text-success`
+- Display - управление отображением: `d-block`
+- Flex - флексбокс: `d-flex`
+- Float - обтекание: `float-start`
+- Interactions - способ взаимодействия: `user-select-all` и `pe-none`
+- Opacity - прозрачность: `opacity-75`
+- Overflow - управление переполнением: `overflow-scroll`
+- Position - позиционирование: `position-relative`
+- Shadows - тень: `shadow-sm`
+- Sizing - ширина, высота, вьюпорт: `w-25`
+- Spacing - padding, margin, gap
+- Text
+    - text alignment,
+    - text wrapping and overflow,
+    - word break,
+    - text-transform,
+    - font-size,
+    - font-weight and font-style
+    - line-height
+    - monospace
+    - reset color
+    - text-decoration
+- Vertical alignment - вертикальное выравнивание inline, inline-block, inline-table, table cell
+- Visibility - видимость элемнта: `visible`
